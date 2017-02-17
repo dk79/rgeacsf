@@ -7,6 +7,8 @@ main .row {
 }
 
 .box {
+  display: 
+  width: 100%;
   height: 200px;
   text-align: center;
   padding-top: 30px;
